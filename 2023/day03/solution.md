@@ -39,6 +39,7 @@
 6. Add content in fruits.txt (One in each line) - Apple, Mango, Banana, Cherry, Kiwi, Orange, Guava.
       
       vim fruits.txt
+      
       :wq
       
 7. To Show only top three fruits from the file.
@@ -52,7 +53,8 @@
 9. To create another file colors.txt and to view the content.
       
       touch colors.txt
-       cat colors.txt
+      
+      cat colors.txt
        
 10. Add content in colors.txt (One in each line) - Red, Pink, White, Black, Blue, Orange, Purple, Grey.
       
