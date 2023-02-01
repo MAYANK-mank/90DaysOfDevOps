@@ -59,7 +59,7 @@
 ![cd -](https://user-images.githubusercontent.com/76457594/210223414-d6333b9c-21cb-4053-abb9-871bbca5db08.png)
 
 
-- ``` cd ..``` --> Chnage directory to one step back.
+- ``` cd ..``` --> Change directory to one step back.
 
 ![cd](https://user-images.githubusercontent.com/76457594/210223531-956598ad-301c-486a-b02e-6e69c4104adb.png)
 
@@ -92,10 +92,4 @@
 - ```mkdir -p  A/B/C/D ``` --> Make a nested directory
 
 ![mkdir-p](https://user-images.githubusercontent.com/76457594/210224365-78ec406e-0a2e-4666-a30d-ac406f0dd695.png)
-
-
-
-
-
-
 
